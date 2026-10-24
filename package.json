@@ -1,0 +1,10 @@
+{
+  "name": "chanda-poultry-silage-feeds",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official Corporate Website for CHANDA POULTRY AND SILAGE FEEDS PRIVATE LIMITED (NR Entrepreneur — Divya Beniwal)",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}

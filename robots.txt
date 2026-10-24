@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Replace https://www.yourdomain.com with your live production domain once connected
+Sitemap: https://www.yourdomain.com/sitemap.xml
